@@ -1,0 +1,21 @@
+# Ambientes Virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Segurança e Configurações
+.env
+*.log
+
+# Python (Arquivos compilados e cache)
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Pasta de dados de sistema
+.DS_Store
