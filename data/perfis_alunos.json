@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nome": "Enzo",
+    "idade": 8,
+    "nivel": "iniciante",
+    "estilo_aprendizado": "visual"
+  },
+  {
+    "id": 2,
+    "nome": "Ana",
+    "idade": 15,
+    "nivel": "intermediário",
+    "estilo_aprendizado": "leitura-escrita"
+  },
+  {
+    "id": 3,
+    "nome": "Carlos",
+    "idade": 22,
+    "nivel": "avançado",
+    "estilo_aprendizado": "auditivo"
+  },
+  {
+    "id": 4,
+    "nome": "Beatriz",
+    "idade": 41,
+    "nivel": "iniciante",
+    "estilo_aprendizado": "cinestésico"
+  },
+  {
+    "id": 5,
+    "nome": "Geraldo",
+    "idade": 73,
+    "nivel": "iniciante",
+    "estilo_aprendizado": "leitura-escrita"
+  }
+]
